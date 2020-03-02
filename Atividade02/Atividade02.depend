@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1583189985 source:c:\users\1620403\documents\edd\atividade02\conta.c
+	"conta.h"
+
+1583190043 c:\users\1620403\documents\edd\atividade02\conta.h
+
+1583190054 source:c:\users\1620403\documents\edd\atividade02\main.c
+	<stdio.h>
+	<stdlib.h>
+	"conta.h"
+
